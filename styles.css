@@ -5,29 +5,14 @@
     font-size: larger;
 }
 
-.navbar-brand {
-    text-transform: none;
+.navbar {
+    /* This .navbar is keeping the li font-size working */
+    background-color: white;
     /* white-space: unset; */
 }
 
-/* #my-title {
-    font-size: xx-large;
-} */
-
 li {
     font-size: xx-large;
-}
-
-.form-control {
-    font-size: larger;
-}
-
-.form-check {
-    font-size: larger;
-}
-
-#create-log-button {
-    font-size: larger;
 }
 
 .card button {
