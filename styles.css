@@ -16,6 +16,10 @@ li {
     font-size: xx-large;
 }
 
+/* #profile-pic {
+    background-color: white;
+} */
+
 .card button {
     font-size: large;
     padding: 0.25rem 0.5rem 0.25rem 0.5rem;
