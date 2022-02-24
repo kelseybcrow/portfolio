@@ -29,6 +29,7 @@
 a {
     text-decoration: unset;
     color: unset;
+    /* font-weight: bold; */
 }
 
 .about-row h4 {
@@ -41,6 +42,11 @@ a {
 
 .projects-row img {
     padding-top: 10%;
+}
+
+.contact-row h3 {
+    padding-top: 2%;
+    font-weight: bold;
 }
 
 li {
