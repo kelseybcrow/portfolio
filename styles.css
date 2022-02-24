@@ -8,12 +8,16 @@
 
 .navbar {
     /* This .navbar is keeping the li font-size working */
-    background-color: white;
+    opacity: 0.9;
     /* white-space: unset; */
 }
 
 .navbar-nav {
     margin-left: auto;
+}
+
+.row {
+    opacity: 0.9;
 }
 
 li {
