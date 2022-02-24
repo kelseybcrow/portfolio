@@ -21,6 +21,10 @@
     color: black;
 }
 
+h4 {
+    padding-top: 3%;
+}
+
 li {
     font-size: xx-large;
 }
