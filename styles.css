@@ -2,7 +2,6 @@
     background-image: url('ocean.jpg');
     background-size: cover;
     min-height: 100vh;
-    font-size: larger;
     /* color: black; */
 }
 
@@ -33,11 +32,14 @@ a {
     /* font-weight: bold; */
 }
 
-.about-row h4 {
+.about-row h5 {
     padding-top: 3%;
 }
 
 .projects-row h2 {
+    padding-top: 2%;
+}
+.projects-row h4 {
     padding-top: 2%;
 }
 
@@ -49,20 +51,15 @@ a {
     font-weight: bold;
 }
 
-.contact-row h3 {
+.contact-row h4 {
     padding-top: 2%;
     font-weight: bold;
 }
 
 li {
-    font-size: xx-large;
+    font-size: larger;
 }
 
 /* #profile-pic {
     background-color: white;
 } */
-
-.card button {
-    font-size: large;
-    padding: 0.25rem 0.5rem 0.25rem 0.5rem;
-}
