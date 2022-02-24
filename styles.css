@@ -12,6 +12,10 @@
     /* white-space: unset; */
 }
 
+.navbar-nav {
+    margin-left: auto;
+}
+
 li {
     font-size: xx-large;
 }
