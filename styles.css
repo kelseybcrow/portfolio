@@ -8,6 +8,7 @@
 
 .navbar {
     opacity: 0.85;
+    white-space: unset;
 }
 
 .navbar-nav {
